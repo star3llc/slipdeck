@@ -1,0 +1,7 @@
+# Core dependencies
+typer[all]
+rich
+PyPDF2
+python-dotenv
+pydantic
+pdfplumber
