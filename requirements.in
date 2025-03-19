@@ -5,3 +5,4 @@ PyPDF2
 python-dotenv
 pydantic
 pdfplumber
+fpdf2
